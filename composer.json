@@ -1,0 +1,10 @@
+{
+  "require": {
+    "smarty/smarty": "^4.3"
+  },
+  "autoload": {
+    "files": [
+      "app/conf/global.php"
+    ]
+  }
+}
